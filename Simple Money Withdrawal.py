@@ -1,4 +1,4 @@
-balance = 1000  # starting balance
+balance = 500 # starting balance
 
 while True:
     try:
